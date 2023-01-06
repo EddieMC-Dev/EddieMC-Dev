@@ -11,9 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="left" alt="Eddie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<div align="left">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
-</div>
 <!---
 EddieMC-Dev/EddieMC-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
