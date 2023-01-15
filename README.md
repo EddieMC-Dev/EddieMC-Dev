@@ -7,7 +7,7 @@
     <img align="left" height="180em" width="400cm"  src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_1.svg">
 </div>
 <div>
-  <img height="180em" width="400cm"  src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_2.svg">
+  <img height="180em" width="460cm"  src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_2.svg">
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Eddie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
