@@ -3,8 +3,10 @@
 <strong>• 🌱 Estou estudando o básico e aprimorando minhas técnicas 📚</br></strong>
 <strong>• 🔮 Planejo estudar HTML no futuro 🌐</br></strong>
 <strong>• 📫 Entre em contato por: <a href="">edgardmacfadden@gmail.com</strong>
+<div style="display: inline_block">
+    <img align="left" height="180em" width="400cm"  src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_1.svg">
+</div>
 <div>
-  <img height="180em" width="500cm" align="left" src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_1.svg">
   <img height="180em" width="500cm"  src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_2.svg">
 </div>
 <div style="display: inline_block"><br>
