@@ -4,7 +4,6 @@
 <strong>• 🔮 Planejo estudar HTML no futuro 🌐</br></strong>
 <strong>• 📫 Entre em contato por: <a href="">edgardmacfadden@gmail.com</strong>
 <div align="left">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" width="420cm" top="15px" src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_1.svg">
   <img height="180em" width="500cm" src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_2.svg">
 </div>
