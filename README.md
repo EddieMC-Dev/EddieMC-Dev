@@ -5,8 +5,8 @@
 <strong>• 📫 Entre em contato por: <a href="">edgardmacfadden@gmail.com</strong>
 <div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" width="420cm" top="15px" src="https://github-readme-stats.vercel.app/api?username=EddieMC-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieMC-Dev&layout=compact&langs_count=7&theme=radical">
+  <img height="180em" width="420cm" top="15px" src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_1.svg">
+  <img height="180em" width="500cm" src="https://raw.githubusercontent.com/EddieMC-Dev/EddieMC-Dev/65a06ad1f018c447774a4035dac06441e48a0bad/graphic_2.svg">
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Eddie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
