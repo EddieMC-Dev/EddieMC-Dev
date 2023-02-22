@@ -1,5 +1,5 @@
 ## 👋 Olá, sou EddieMC-Dev
-<strong>• 👀 Estou interessado em Python no momento 💻</br></strong>
+<strong>• 👀 Estou interessado em C++ no momento 💻</br></strong>
 <strong>• 🌱 Estou estudando o básico e aprimorando minhas técnicas 📚</br></strong>
 <strong>• 🔧 Estou trabalhando alguns projetos para o portfólio 📋</br></strong>
 <strong>• 🔮 Planejo estudar C++ 🌐</br></strong>
