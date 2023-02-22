@@ -5,7 +5,7 @@
 <strong>• 🔮 Planejo estudar C++ 🌐</br></strong>
 <strong>• 📫 Entre em contato por: <a href="">edgardmacfadden@gmail.com</strong>
 
-![EddieMc-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieMC-Dev&theme=radical&show_icons=true)
+![EddieMc-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieMC-Dev&theme=radical&show_icons=true&hide=contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieMC-Dev&theme=radical&layout=compact&card_width=417&line_height=400&show_icons=true)](https://github.com/EddieMC-Dev/github-readme-stats)
 
