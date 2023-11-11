@@ -12,6 +12,8 @@
 <div align="left">
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="40" width="40"  src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+  <img height="40" width="40"  src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/java.png">
+  <img height="40" width="40"  src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/html.png">
 </div>
 <!---
 EddieMC-Dev/EddieMC-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
