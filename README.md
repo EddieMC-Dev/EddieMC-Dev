@@ -7,7 +7,7 @@
 
 ![EddieMc-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieMC-Dev&theme=radical&show_icons=true&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieMC-Dev&theme=radical&layout=compact&card_width=467&line_height=400&show_icons=true)](https://github.com/EddieMC-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieMC-Dev&theme=radical&layout=compact&card_width=467&line_height=400&show_icons=true&langs_count=5)](https://github.com/EddieMC-Dev/github-readme-stats)
 
 <p>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
