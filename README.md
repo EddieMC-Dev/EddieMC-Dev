@@ -1,8 +1,8 @@
 ## 👋 Olá, sou EddieMC-Dev
-<strong>• 👀 Estou interessado em C, C++, C# e Python 💻</br></strong>
+<strong>• 👀 Estou interessado em C++, C# e Python 💻</br></strong>
 <strong>• 🌱 Estou estudando o básico e aprimorando minhas técnicas 📚</br></strong>
 <strong>• 🔧 Estou trabalhando alguns projetos para o portfólio 📋</br></strong>
-<strong>• 🔮 Planejo estudar C, C++ e C#🌐</br></strong>
+<strong>• 🔮 Planejo estudar C++ e C#🌐</br></strong>
 <strong>• 📫 Entre em contato por: <a href="">edgardmacfadden@gmail.com</strong>
 
 ![EddieMc-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieMC-Dev&theme=radical&show_icons=true&hide=contribs)
