@@ -1,5 +1,5 @@
-## Olá, sou EddieMC-Dev
-### Ferramentas:
+## Hello, I'm EddieMC-Dev
+### Languages:
 #### -> C
 #### -> C++
 #### -> Python
